@@ -3,6 +3,7 @@
 CareLoop is a medication check-in and care-coordination prototype for skilled nursing facilities. It detects missed medication check-ins passively and alerts nursing staff in proportion to the urgency, so that residents who do not speak up are still noticed.
 
 ![CareLoop kitchen, resident and nurse applications](docs/demo.png)
+**Live demo:** https://your-address.onrender.com (the first load can take up to a minute because the free host sleeps when idle)
 
 ## Overview
 
